@@ -14,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0001-two-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -39,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rrohandewangan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
