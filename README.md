@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Rrohandewangan/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rrohandewangan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -29,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0015-3sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -37,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rrohandewangan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
