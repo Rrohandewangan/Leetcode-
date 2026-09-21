@@ -31,6 +31,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rrohandewangan/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -67,6 +68,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rrohandewangan/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
