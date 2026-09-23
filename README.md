@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Rrohandewangan/Leetcode-/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -140,4 +141,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Rrohandewangan/Leetcode-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
