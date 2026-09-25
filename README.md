@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rrohandewangan/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rrohandewangan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rrohandewangan/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -110,6 +111,7 @@
 | [0001-two-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -139,11 +141,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rrohandewangan/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Rrohandewangan/Leetcode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Rrohandewangan/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -175,6 +179,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
