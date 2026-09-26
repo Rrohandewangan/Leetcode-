@@ -14,19 +14,19 @@
  * }
  */
 class Solution {
-    public int findDiameter(TreeNode root, int[] diameter) {
+    int diameter = 0;
+    public int findDiameter(TreeNode root) {
         if(root == null) return 0;
 
-        int lh = findDiameter(root.left, diameter);
-        int rh = findDiameter(root.right, diameter);
+        int lh = findDiameter(root.left);
+        int rh = findDiameter(root.right);
 
-        diameter[0] = Math.max(diameter[0], lh + rh);
+        diameter = Math.max(diameter, lh + rh);
 
         return 1 + Math.max(lh, rh);
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        int[] diameter = new int[1];
-        findDiameter(root, diameter);
-        return diameter[0];
+        findDiameter(root);
+        return diameter;
     }
 }
