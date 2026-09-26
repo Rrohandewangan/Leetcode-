@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rrohandewangan/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Rrohandewangan/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rrohandewangan/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
