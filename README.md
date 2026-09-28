@@ -118,6 +118,7 @@
 | [0001-two-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -131,6 +132,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rrohandewangan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
