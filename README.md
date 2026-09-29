@@ -16,6 +16,7 @@
 | [0020-valid-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Rrohandewangan/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rrohandewangan/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rrohandewangan/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
@@ -139,6 +141,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rrohandewangan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Rrohandewangan/Leetcode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Rrohandewangan/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
+| [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
 |  |
 | ------- |
