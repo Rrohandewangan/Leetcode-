@@ -141,6 +141,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rrohandewangan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -151,6 +152,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rrohandewangan/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -226,10 +228,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rrohandewangan/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
