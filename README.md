@@ -15,6 +15,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rrohandewangan/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Rrohandewangan/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
@@ -170,6 +171,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rrohandewangan/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,4 +239,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rrohandewangan/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
