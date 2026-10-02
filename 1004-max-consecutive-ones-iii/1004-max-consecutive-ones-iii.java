@@ -1,4 +1,6 @@
 class Solution {
+    // TC -> O(n * n)
+    // SC -> O(1)
     public int longestOnes(int[] nums, int k) {
         int l = 0, r = 0, maxLen = 0, zeros = 0;
 
@@ -7,7 +9,7 @@ class Solution {
             if (nums[r] == 0)
                 zeros++;
 
-            while (zeros > k) {
+            if (zeros > k) {
                 if (nums[l] == 0)
                     zeros--;
                 l++;
