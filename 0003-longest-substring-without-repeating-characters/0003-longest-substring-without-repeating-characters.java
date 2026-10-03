@@ -1,11 +1,8 @@
 class Solution {
-    // TC -> O(n)
-    // SC -> O(n)
-    public int lengthOfLongestSubstring(String s) {
+     public int lengthOfLongestSubstring(String s) {
         Map<Character, Integer> lastSeen = new HashMap<>();
-        
-        int left = 0;
-        int maxLen = 0;
+
+        int left = 0, maxLen = 0;
 
         for(int right = 0; right < s.length(); right++) {
             char curr = s.charAt(right);
@@ -18,6 +15,7 @@ class Solution {
 
             maxLen = Math.max(maxLen, right - left + 1);
         }
+
         return maxLen;
     }
 }
