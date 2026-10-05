@@ -20,6 +20,7 @@
 | [0125-valid-palindrome](https://github.com/Rrohandewangan/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rrohandewangan/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0856-score-of-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 ## Hash Table
 |  |
@@ -189,6 +190,7 @@
 | [0155-min-stack](https://github.com/Rrohandewangan/Leetcode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Rrohandewangan/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bracket Sequences
 |  |
@@ -196,6 +198,7 @@
 | [0020-valid-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0856-score-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
