@@ -14,22 +14,21 @@
  * }
  */
 class Solution {
-    public TreeNode buildTree2(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, Map<Integer, Integer> iMap) {
-         
-         if(preStart > preEnd || inStart > inEnd) return null;
+     public TreeNode buildTree2(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd, HashMap<Integer, Integer> iMap) {
+        if(preStart > preEnd || inStart > inEnd) {
+            return null;
+        }
 
-         TreeNode root = new TreeNode(preorder[preStart]);
+        TreeNode root = new TreeNode(preorder[preStart]);
 
-         int inRoot = iMap.get(root.val);
-         int numsLeft = inRoot - inStart;
+        int inRoot = iMap.get(root.val);
+        int numsLeft = inRoot - inStart;
 
-         root.left = buildTree2(preorder, preStart + 1, preStart + numsLeft , inorder, inStart, inRoot - 1, iMap);
+        root.left = buildTree2(preorder, preStart + 1, preStart + numsLeft, inorder, inStart, inRoot - 1, iMap);
+        root.right = buildTree2(preorder, preStart + numsLeft + 1, preEnd, inorder, inRoot + 1, inEnd, iMap);
 
-         root.right = buildTree2(preorder, preStart + numsLeft +  1, preEnd, inorder, inRoot + 1, inEnd, iMap);
-
-         return root;
+        return root;
     }
-
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         HashMap<Integer, Integer> iMap = new HashMap<>();
 
