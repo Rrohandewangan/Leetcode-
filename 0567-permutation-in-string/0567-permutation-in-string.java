@@ -1,38 +1,36 @@
 class Solution {
-    // TC -> O(n2)
-    boolean isFreqSame(int[] freq1, int[] freq2) { //O(1)
-        for(int i=0; i<26; i++) {
+    public boolean isFreqSame(int[] freq1, int[] freq2) {
+        for(int i=0; i<freq1.length; i++) {
             if(freq1[i] != freq2[i]) {
-                return false ;
+                return false;
             }
         }
-        return true ;
+        return true;
     }
-
     public boolean checkInclusion(String s1, String s2) {
-        int[] freq = new int[26] ;
-        for(int i=0; i<s1.length(); i++) {
-        // internally convert into ascii value and give integer type index of character.
-        // a -> 0, b -> 1
-            freq[s1.charAt(i) - 'a']++ ;
-        }
+      
+       if(s1.length() > s2.length()) return false;
 
-        int windSize = s1.length() ;
+       int[] freq = new int[26];
+       for(int i=0; i<s1.length(); i++) {
+          freq[s1.charAt(i) - 'a']++;
+       }
+       
+       int windowSize = s1.length();
+       for(int i=0; i<=s2.length() - windowSize; i++) {
 
-        for(int i=0; i<s2.length(); i++) {  //O(n2)
-            int windIdx = 0, idx = i ;
-            int[] windFreq = new int[26] ;
+          int[] windowFreq = new int[26];
+          int windowIdx = 0, idx = i;
 
-        while(windIdx < windSize && idx < s2.length()) { // this is check windidx is not exceed windsize and idx is not exceed the length of s2 string .
-                windFreq[s2.charAt(idx) - 'a']++ ; // it store the freq of character of s2 string in window freq array 
-                windIdx++; idx++ ;
-            }
+          while(windowIdx < windowSize) {
+            windowFreq[s2.charAt(idx) - 'a']++;
+            windowIdx++; idx++;
+          }
 
-            if(isFreqSame(freq, windFreq)) { // permutation found
-                 return true ;
-            }
-        }
-
-        return false ;
+          if(isFreqSame(freq, windowFreq)) {
+            return true;
+          }
+       }
+       return false;
     }
 }
