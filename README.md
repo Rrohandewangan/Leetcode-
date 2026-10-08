@@ -161,6 +161,7 @@
 | [0239-sliding-window-maximum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0860-lemonade-change](https://github.com/Rrohandewangan/Leetcode-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Rrohandewangan/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
@@ -194,6 +195,7 @@
 | [0011-container-with-most-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/Rrohandewangan/Leetcode-/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
