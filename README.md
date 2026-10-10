@@ -123,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -205,6 +208,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rrohandewangan/Leetcode-/tree/master/0860-lemonade-change) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -317,6 +321,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0239-sliding-window-maximum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
