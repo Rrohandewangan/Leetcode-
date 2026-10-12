@@ -122,6 +122,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -163,6 +164,7 @@
 | [0036-valid-sudoku](https://github.com/Rrohandewangan/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rrohandewangan/Leetcode-/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -341,6 +343,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
