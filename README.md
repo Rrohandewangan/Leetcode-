@@ -54,6 +54,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rrohandewangan/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0860-lemonade-change](https://github.com/Rrohandewangan/Leetcode-/tree/master/0860-lemonade-change) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,4 +345,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rrohandewangan/Leetcode-/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
