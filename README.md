@@ -12,6 +12,7 @@
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rrohandewangan/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Tree
 |  |
@@ -187,6 +189,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -219,6 +222,7 @@
 | [0860-lemonade-change](https://github.com/Rrohandewangan/Leetcode-/tree/master/0860-lemonade-change) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -299,6 +303,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
 | ------- |
@@ -335,6 +340,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
 |  |
 | ------- |
