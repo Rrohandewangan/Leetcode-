@@ -166,6 +166,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Rrohandewangan/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rrohandewangan/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rrohandewangan/Leetcode-/tree/master/0057-insert-interval) |
@@ -217,6 +218,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Rrohandewangan/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Rrohandewangan/Leetcode-/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
@@ -233,6 +235,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rrohandewangan/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rrohandewangan/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rrohandewangan/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0678-valid-parenthesis-string) |
