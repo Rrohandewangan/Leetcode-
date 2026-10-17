@@ -57,6 +57,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rrohandewangan/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Tree
 |  |
@@ -194,6 +196,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
