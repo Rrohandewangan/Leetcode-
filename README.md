@@ -135,6 +135,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -201,6 +202,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -215,6 +217,7 @@
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Lifting
 |  |
