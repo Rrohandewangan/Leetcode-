@@ -108,6 +108,7 @@
 | [0733-flood-fill](https://github.com/Rrohandewangan/Leetcode-/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -125,6 +126,7 @@
 | [0733-flood-fill](https://github.com/Rrohandewangan/Leetcode-/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Rrohandewangan/Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -320,6 +323,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rrohandewangan/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rrohandewangan/Leetcode-/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -386,6 +390,7 @@
 | [0036-valid-sudoku](https://github.com/Rrohandewangan/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Rrohandewangan/Leetcode-/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 ## Bit Manipulation
 |  |
 | ------- |
