@@ -120,6 +120,7 @@
 | [0200-number-of-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rrohandewangan/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rrohandewangan/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -195,6 +196,7 @@
 | [0239-sliding-window-maximum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Rrohandewangan/Leetcode-/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Rrohandewangan/Leetcode-/tree/master/0860-lemonade-change) |
@@ -260,6 +262,7 @@
 | [0045-jump-game-ii](https://github.com/Rrohandewangan/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rrohandewangan/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -394,6 +397,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rrohandewangan/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rrohandewangan/Leetcode-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Rrohandewangan/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
