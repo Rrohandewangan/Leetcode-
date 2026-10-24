@@ -1,14 +1,22 @@
 class Solution {
-    private boolean dfs(int node, int currCol, int[] color,
-    int[][] graph) {
-        color[node] = currCol;
+    // TC -> O(V + E)
+    // SC -> O(V + E)
+    private boolean bfs(int start, int[] color, int[][] graph) {
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(start);
+        color[start] = 0;
 
-        for(int it : graph[node]) {
-            if(color[it] == -1) {
-                if(dfs(it, 1 - currCol, color, graph) == false) return false;
-            }
-            else if(color[it] == currCol) {
-                return false;
+        while(!q.isEmpty()) {
+            int node = q.poll();
+
+            for(int it : graph[node]) {
+                if(color[it] == -1) {
+                    color[it] = 1 - color[node];
+                    q.offer(it);
+                }
+                else if(color[it] == color[node]) {
+                    return false;
+                }
             }
         }
         return true;
@@ -20,7 +28,7 @@ class Solution {
 
         for(int i=0; i<n; i++) {
           if(color[i] == -1) {
-            if(dfs(i, 0, color, graph) == false) return false;
+            if(bfs(i, color, graph) == false) return false;
            }
         }
       return true;
