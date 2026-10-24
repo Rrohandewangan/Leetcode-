@@ -32,6 +32,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rrohandewangan/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Rrohandewangan/Leetcode-/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Rrohandewangan/Leetcode-/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rrohandewangan/Leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Rrohandewangan/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
