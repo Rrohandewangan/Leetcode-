@@ -115,6 +115,7 @@
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Rrohandewangan/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -344,6 +347,7 @@
 | [0785-is-graph-bipartite](https://github.com/Rrohandewangan/Leetcode-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -417,6 +421,7 @@
 | [0994-rotting-oranges](https://github.com/Rrohandewangan/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
