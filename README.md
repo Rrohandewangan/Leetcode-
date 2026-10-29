@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/Rrohandewangan/Leetcode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Rrohandewangan/Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Rrohandewangan/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Rrohandewangan/Leetcode-/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rrohandewangan/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0567-permutation-in-string) |
@@ -44,6 +45,7 @@
 | [0076-minimum-window-substring](https://github.com/Rrohandewangan/Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rrohandewangan/Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Rrohandewangan/Leetcode-/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Rrohandewangan/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rrohandewangan/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +127,7 @@
 | [0100-same-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Rrohandewangan/Leetcode-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Rrohandewangan/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Rrohandewangan/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/0200-number-of-islands) |
@@ -478,4 +481,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rrohandewangan/Leetcode-/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Rrohandewangan/Leetcode-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
