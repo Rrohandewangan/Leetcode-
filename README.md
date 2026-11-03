@@ -121,6 +121,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -151,6 +152,7 @@
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -240,6 +242,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rrohandewangan/Leetcode-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -259,6 +262,7 @@
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rrohandewangan/Leetcode-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -369,6 +373,7 @@
 | [0785-is-graph-bipartite](https://github.com/Rrohandewangan/Leetcode-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -423,6 +428,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0239-sliding-window-maximum) |
+| [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
@@ -450,6 +456,7 @@
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -506,4 +513,8 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Rrohandewangan/Leetcode-/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rrohandewangan/Leetcode-/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
