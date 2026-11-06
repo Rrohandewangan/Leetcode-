@@ -63,6 +63,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rrohandewangan/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2747-count-zero-request-servers](https://github.com/Rrohandewangan/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Tree
@@ -173,6 +174,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2747-count-zero-request-servers](https://github.com/Rrohandewangan/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Rrohandewangan/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
@@ -252,6 +254,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rrohandewangan/Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rrohandewangan/Leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Rrohandewangan/Leetcode-/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2747-count-zero-request-servers](https://github.com/Rrohandewangan/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -409,6 +412,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rrohandewangan/Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rrohandewangan/Leetcode-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/Rrohandewangan/Leetcode-/tree/master/2747-count-zero-request-servers) |
 ## Backtracking
 |  |
 | ------- |
