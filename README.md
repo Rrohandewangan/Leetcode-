@@ -124,6 +124,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -156,6 +157,7 @@
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -247,6 +249,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rrohandewangan/Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
@@ -385,6 +388,7 @@
 | [0785-is-graph-bipartite](https://github.com/Rrohandewangan/Leetcode-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
@@ -433,6 +437,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rrohandewangan/Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 ## Queue
 |  |
 | ------- |
@@ -470,6 +475,7 @@
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
