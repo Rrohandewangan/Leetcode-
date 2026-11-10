@@ -1,4 +1,6 @@
 class Solution {
+    // TC -> O(E x logV)
+    // SC -> O(V + E)
     public int networkDelayTime(int[][] times, int n, int k) {
         ArrayList<ArrayList<int[]>> adj = new ArrayList<>();
 
