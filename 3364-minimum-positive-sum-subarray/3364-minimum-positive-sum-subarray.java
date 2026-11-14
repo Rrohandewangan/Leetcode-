@@ -6,13 +6,13 @@ class Solution {
         for(int i=0; i<n; i++) {
             int sum = 0;
 
-            for(int j=i; j < n && j - i + 1 <= r; j++) {
+            for(int j=i; j < n ; j++) {
 
                 sum += nums.get(j);
 
                 int len = j - i + 1;
 
-                if(len >= l && sum > 0) {
+                if(len >= l && j - i + 1 <= r && sum > 0) {
                     mini = Math.min(mini, sum);
                 }
             }
