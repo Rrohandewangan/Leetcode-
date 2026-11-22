@@ -128,6 +128,7 @@
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Rrohandewangan/Leetcode-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -162,6 +163,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Rrohandewangan/Leetcode-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rrohandewangan/Leetcode-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -399,6 +401,7 @@
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rrohandewangan/Leetcode-/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Rrohandewangan/Leetcode-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Rrohandewangan/Leetcode-/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
@@ -514,6 +517,7 @@
 | [0785-is-graph-bipartite](https://github.com/Rrohandewangan/Leetcode-/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rrohandewangan/Leetcode-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Rrohandewangan/Leetcode-/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Rrohandewangan/Leetcode-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rrohandewangan/Leetcode-/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rrohandewangan/Leetcode-/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Enumeration
