@@ -30,6 +30,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Rrohandewangan/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Rrohandewangan/Leetcode-/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/0856-score-of-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/Rrohandewangan/Leetcode-/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Rrohandewangan/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
@@ -56,6 +57,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rrohandewangan/Leetcode-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rrohandewangan/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Rrohandewangan/Leetcode-/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Rrohandewangan/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
@@ -118,6 +120,7 @@
 | [0547-number-of-provinces](https://github.com/Rrohandewangan/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rrohandewangan/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Rrohandewangan/Leetcode-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rrohandewangan/Leetcode-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Rrohandewangan/Leetcode-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Rrohandewangan/Leetcode-/tree/master/0785-is-graph-bipartite) |
@@ -151,6 +154,7 @@
 | [0547-number-of-provinces](https://github.com/Rrohandewangan/Leetcode-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rrohandewangan/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Rrohandewangan/Leetcode-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rrohandewangan/Leetcode-/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Rrohandewangan/Leetcode-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Rrohandewangan/Leetcode-/tree/master/0785-is-graph-bipartite) |
@@ -176,6 +180,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rrohandewangan/Leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rrohandewangan/Leetcode-/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rrohandewangan/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0721-accounts-merge](https://github.com/Rrohandewangan/Leetcode-/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rrohandewangan/Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rrohandewangan/Leetcode-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -244,6 +249,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rrohandewangan/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/Rrohandewangan/Leetcode-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/Rrohandewangan/Leetcode-/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rrohandewangan/Leetcode-/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Rrohandewangan/Leetcode-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Rrohandewangan/Leetcode-/tree/master/0875-koko-eating-bananas) |
@@ -397,6 +403,7 @@
 | [0130-surrounded-regions](https://github.com/Rrohandewangan/Leetcode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rrohandewangan/Leetcode-/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Rrohandewangan/Leetcode-/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Rrohandewangan/Leetcode-/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Rrohandewangan/Leetcode-/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rrohandewangan/Leetcode-/tree/master/1254-number-of-closed-islands) |
