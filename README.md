@@ -276,6 +276,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rrohandewangan/Leetcode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rrohandewangan/Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rrohandewangan/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rrohandewangan/Leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rrohandewangan/Leetcode-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rrohandewangan/Leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -443,6 +444,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rrohandewangan/Leetcode-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2747-count-zero-request-servers](https://github.com/Rrohandewangan/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rrohandewangan/Leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rrohandewangan/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -456,6 +458,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Rrohandewangan/Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rrohandewangan/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/Rrohandewangan/Leetcode-/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rrohandewangan/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rrohandewangan/Leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rrohandewangan/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Rrohandewangan/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
@@ -534,6 +537,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rrohandewangan/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/Rrohandewangan/Leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Graph Coloring
 |  |
@@ -605,4 +609,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rrohandewangan/Leetcode-/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rrohandewangan/Leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
